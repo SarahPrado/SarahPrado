@@ -1,4 +1,26 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi, my name is Sarah 👋</h1>
+Full Stack Student at Digital College - I love art and technology, everything to be a great web designer.
+  <br/> But im just in the process 😄 
+  </div>  <br/>
+
+
+ <h3>💻 GitHub Profile Stats</h3>
+ 
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/SarahPrado">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahPrado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/SarahPrado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahPrado&layout=compact&langs_count=7&theme=cobalt"/>
+  <br/>
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/SarahPrado?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<br>
+
+
+
 
 <!--
 **SarahPrado/SarahPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
