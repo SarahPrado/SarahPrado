@@ -5,7 +5,7 @@ Full Stack Student at Digital College - I love art and technology, everything to
   </div>  <br/>
 
 
- <h3>💻 GitHub Profile Stats</h3>
+## 💻 GitHub Profile Stats
  
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/SarahPrado">
@@ -15,7 +15,7 @@ Full Stack Student at Digital College - I love art and technology, everything to
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahPrado&layout=compact&langs_count=7&theme=cobalt"/>
   <br/>
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## 🔔 My Latest GitHub Metrics 
 ![Metrics](https://metrics.lecoq.io/SarahPrado?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 <br>
 
